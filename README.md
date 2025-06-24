@@ -16,6 +16,10 @@ Pour chaque prévision, les informations suivantes sont affichées :
 
 - 📅 **Date et heure**
 - 🌡️ **Température maximale**
+- 🌡️ **Température minimale**
+- 🌬️ **Pression atmosphérique**
+- 💧 **Humidité**
+- 🌈 **État du ciel** (ex. : Clear, Clouds, Rain, Snow)
 
 ---
 

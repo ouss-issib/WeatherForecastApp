@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="min">Min:</string>
+    <string name="max">MAX:</string>
+    <string name="pression">Pression:</string>
+    <string name="humidit">Humidité:</string>
+    <string name="ville">Ville :</string>
+</resources>

@@ -91,7 +91,7 @@ weather-forecast-app/
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/weather-forecast-app.git
+   git clone https://github.com/ouss-issib/WeatherForecastApp.git
 2. **Ouvrir le projet dans Android Studio** :
   - Fichier > Ouvrir > Sélectionner le dossier du projet
 3. **Exécuter l’application** :

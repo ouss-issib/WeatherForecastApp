@@ -27,11 +27,11 @@ L'application interagit avec l'API [OpenWeatherMap](https://openweathermap.org/a
 
 ## ⚙️ Technologies utilisées
 
-- 📱 Android Studio (Java ou Kotlin)
-- 🌐 Requêtes HTTP via **Retrofit** ou **Volley**
+- 📱 Android Studio (Java / Kotlin)
+- 🌐 Requêtes HTTP via **Volley**
 - 🎨 Interface utilisateur en XML
 - 📦 Parsing JSON avec GSON ou JSONObject
-- 🧪 Tests sur **émulateur Android** ou **appareil réel**
+- 🧪 Tests sur **émulateur Android** 
 
 ---
 
@@ -61,7 +61,7 @@ weather-forecast-app/
 ### `MainActivity`
 
 - Interface utilisateur avec un champ de saisie pour la ville et un bouton de recherche
-- Affichage des résultats dans une liste (RecyclerView)
+- Affichage des résultats dans une liste view
 
 ### `WeatherService`
 

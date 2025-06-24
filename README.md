@@ -67,16 +67,17 @@ weather-forecast-app/
 - Interface utilisateur avec un champ de saisie pour la ville et un bouton de recherche
 - Affichage des résultats dans une liste view
 
-### `WeatherService`
 
-- Gère les appels réseau vers l’API OpenWeatherMap
-- Récupère les données météo en JSON
+### `MeteoListModel`
 
-### `WeatherAdapter`
-
-- Gère l’affichage des prévisions dans une liste
-- Affiche la date, l’heure, et la température maximale pour chaque entrée
-
+- Modèle de données utilisé pour représenter chaque prévision météo
+- Contient les champs suivants :
+  - `tempMin`
+  - `tempMax`
+  - `pression`
+  - `humidite`
+  - `date`
+  - `image` (état du ciel)
 ---
 
 ## 📸 Captures d’écran
